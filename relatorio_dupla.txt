@@ -1,6 +1,6 @@
-# Relatório
+Relatório
 Durante o desenvolvimento do trabalho utilizando o Git e o GitHub, não encontramos dificuldades significativas. 
-O controle de versão ajuda a evitar erros porque permite registrar cada alteração feita no código. Caso algum erro seja cometido, é possível voltar para uma versão anterior do projeto. <br>
+O controle de versão ajuda a evitar erros porque permite registrar cada alteração feita no código. Caso algum erro seja cometido, é possível voltar para uma versão anterior do projeto. 
 Os commits ajudam na rastreabilidade porque cada alteração fica registrada com data, horário e descrição. Dessa forma, é possível identificar quem fez determinada modificação e entender o motivo da mudança.
 O histórico de alterações é importante porque permite acompanhar a evolução do software ao longo do tempo.
 O GitHub pode melhorar a qualidade do software ao permitir colaboração entre desenvolvedores, revisão de código (pull requests), controle de versões e organização do projeto. 
